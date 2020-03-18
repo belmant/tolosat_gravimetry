@@ -9,5 +9,5 @@ Active members of the _Gravity Simulation_ team:
 
 ## External links
 
-ASTRE website: https://www.astre-toulouse.com/
+ASTRE website: https://www.astre-toulouse.com/  
 CubeSats Club of Supaero website: https://cubesat.bde-supaero.fr/
